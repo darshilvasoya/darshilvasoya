@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3500&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Darshil+Vasoya;Backend+Developer+Learning+Data+Science+and+AI+%26+ML;Building+useful+things+with+Python" />
 </p>
 
-
-
 <p align="center">
   <a href="https://github.com/darshilvasoya">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
@@ -67,4 +65,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darshilvasoya&style=for-the-badge&label=PROFILE%20VIEWS&color=brightgreen" alt="profile views"/>
 </p>
-
